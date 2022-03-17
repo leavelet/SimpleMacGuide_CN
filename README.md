@@ -10,7 +10,7 @@
 
 本文的大概思路是，先讲一些有用的通用技能，试图授大家以“渔”；然后带领大家从初等的用法开始，给大家一些能快速上手的“鱼”；最后部分类似一个可供查找的词典，可以在遇到问题或者想要提高的时候参考。
 
-本文的GitHub仓库地址是 https://github.com/leavelet/SimpleMacGuide\_CN/，遵循[CC BY-NC 4.0协议](https://creativecommons.org/licenses/by-nc/4.0/)。
+本文的GitHub仓库地址是 `https://github.com/leavelet/SimpleMacGuide_CN/`，遵循[CC BY-NC 4.0协议](https://creativecommons.org/licenses/by-nc/4.0/)。
 
 由于可能会很长，会更新一阵子。作者水平有限，如果发现问题请提issue或者pr，同时也欢迎大家补充内容！
 
