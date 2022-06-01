@@ -1,5 +1,7 @@
 # SimpleMacGuide\_CN
 
+建了自己的网站, www.leavelet.io 暂时还没有做到和GitHub同步。通常来说网站上的内容会新一些
+
 简单的Mac中文指南
 
 正在持续更新中，预计这个学期应该可以写完
