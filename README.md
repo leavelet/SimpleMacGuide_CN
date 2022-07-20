@@ -21,3 +21,5 @@ leavelet，leavelet@163.com
 2022年3月2日 于家园食堂三楼
 
 欢迎大家提意见和建议，issue，pr 或者给我发邮件都可以
+
+目前的主要作者有：@leavelet @Sunyi618 欢迎大家一起参与写作🎉
