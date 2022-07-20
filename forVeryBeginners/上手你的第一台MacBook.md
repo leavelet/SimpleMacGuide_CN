@@ -53,15 +53,13 @@
 
   然后就像你在手机或者平板上那样，任意下载你需要的软件。
 
-* Macwk
-
-  一般来说，很多我们需要的软件不会收录在App Store里，这个时候，你便需要到互联网上下载你需要的软件了。Macwk是MacOS下载软件的必备网站，它的网址是:[macwk.com](macwk.com)。
-
 * 官网下载
 
   以C语言开发工具CLion为例，进入[CLion官网](https://www.jetbrains.com/zh-cn/clion/)，点击下载，选择你的平台（Intel还是Apple（M1,M1 Pro,M1 Max,M2......）？），按照相关提示安装即可。
 
-  ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h4dde9r3gcj210r0u0dj5.jpg)
+* 第三方软件下载平台
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h4dde9r3gcj210r0u0dj5.jpg)
 
 ## 控制面板 vs 系统偏好设置
 
@@ -85,12 +83,8 @@
 
 对于大小写切换，你需要长按“中/英”键直至绿灯亮起。
 
-## 窗口左上角三个按钮
+## 读写U盘
 
-![截屏2022-07-20 下午2.43.21](https://tva1.sinaimg.cn/large/e6c9d24egy1h4de0rfkbkj204401y742.jpg)
+由于系统原因，MacBook可能无法有效利用U盘拷东西。这个时候，你需要下载U盘读写工具来解决读写受限的问题。以下是在某第三方软件下载平台检索到的U盘读写工具。
 
-红色的是关闭本应用/关闭浏览器所有窗口/关闭应用窗口（这个逻辑有些混乱，要自己摸索）。
-
-黄色的是将本窗口最小化。
-
-绿色的是将本窗口全屏化，适用于专注于某一项工作的场景。可以在触控板上三指左右滑动进入离开/回到全屏应用。
+![截屏2022-07-20 下午9.26.09](https://tva1.sinaimg.cn/large/e6c9d24egy1h4dpny9ilsj21c00u0ael.jpg)
