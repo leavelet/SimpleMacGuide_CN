@@ -1,4 +1,4 @@
-在你入手你的第一台运行着MacOS操作系统的MacBook之前，你使用的电脑运行的操作系统是由微软开发的Windows（考虑到本文档的受众）。本文档将介绍如何从Windows迁移到MacOS，如何适应MacOS的操作逻辑。
+通常来说，在你入手你的第一台运行着MacOS操作系统的MacBook之前，你使用的电脑运行的操作系统是由微软开发的Windows。本文档将介绍如何从Windows迁移到MacOS，如何适应MacOS的操作逻辑。
 
 # 从Windows迁移操作习惯
 
