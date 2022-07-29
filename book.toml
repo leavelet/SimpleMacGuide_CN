@@ -1,5 +1,22 @@
 [book]
-authors = [leavelet]
+title = "Mac 指北"
+authors = ["leavelet", "Sunyi618"]
+description = "Mac的简单上手，与进阶使用"
 language = "zh_cn"
 multilingual = false
 src = "src"
+
+[output.html]
+mathjax-support = true
+site-url = "/macguide/"
+git-repository-url = "https://github.com/leavelet/SimpleMacGuide_CN/tree/main"
+edit-url-template = "https://github.com/leavelet/SimpleMacGuide_CN/edit/main/{path}"
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
