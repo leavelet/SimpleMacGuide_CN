@@ -1,6 +1,6 @@
 # SimpleMacGuide\_CN
 
-简单的Mac中文指南
+简单的Mac中文指南，目前部署于 https://macguide.leavelet.io
 
 正在持续更新中，欢迎大家提意见和建议
 
