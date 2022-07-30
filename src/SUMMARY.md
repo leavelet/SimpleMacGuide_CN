@@ -23,6 +23,7 @@
 # 进阶配置
 
 - [基础开发环境配置（终端与brew）](./Advanced/developmentEnvFromScratch.md)
+- [如何让一门语言跑起来](./Advanced/commonLanguage.md)
 - [C++环境配置]()
 - [Python环境配置]()
 - [Qt安装和配置]()
