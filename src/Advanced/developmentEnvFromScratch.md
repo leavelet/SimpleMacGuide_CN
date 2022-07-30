@@ -22,7 +22,7 @@
 
 先上一张图：看下我简单配置完的效果。我的主要目的是简单好用，如果想要炫酷效果可以自行研究哈哈
 
-![](../.gitbook/assets/myiterm.png)
+![我的iTerm2配置图](https://macguide.leavelet.io/assets/myiterm.png)
 
 步骤:
 
