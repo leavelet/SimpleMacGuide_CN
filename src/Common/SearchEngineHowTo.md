@@ -57,12 +57,12 @@
 
 比如前几天一位同学的Rstudio在修改设置的时候会报错，提示“permission denied"。
 
-![截图](<https://macguide.leavelet.io/src/assets/IMG\_8610.JPG>)
+![截图](<https://macguide.leavelet.io/assets/IMG\_8610.JPG>)
 
 谷歌搜索 `rstudio permission denied mac`和`rstudio change settings denied`都会得到近乎一样的搜索结果页，第一条是官方论坛结果，第二条是Stack Overflow结果。点击第一条，得知rstudio的偏好设置保存在`~/.config`，检查发现用户组没有权限修改内容，只要运行`sudo chown -R <username> .config`或者就可以解决问题。
 
 (有关权限和终端运行指令的内容会在后续说到，暂时不用太担心)
 
-![搜索引擎结果](<https://macguide.leavelet.io/src/assets/截屏2022-03-04 下午2.11.15.png>)
+![搜索引擎结果](<https://macguide.leavelet.io/assets/截屏2022-03-04 下午2.11.15.png>)
 
 （第二条的答案是我写的）

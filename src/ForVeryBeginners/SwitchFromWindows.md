@@ -11,7 +11,7 @@ written by: [Sunyi618](https://github.com/Sunyi618)
 而macOS中，也有“我的电脑”，只是名字叫“访达“。点击点击屏幕下方的Dock栏（放了一整行图标的栏目）上那个蓝色笑脸图标，就可以找到它。
 
 <p align="center" alt="就是这个图标" width="100">
-  <img src="src/assets/Finder.png" />
+  <img src="https://macguide.leavelet.io/assets/Finder.png" />
 </p>
 
 然而，如果你是第一次使用MacOS，有如下需要说明的：
