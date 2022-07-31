@@ -123,7 +123,13 @@ clash -d .
     然后安装完的说明执行，在我的环境下说明是这样的
 
     ```
-     To activate the syntax highlighting, add the following at the end of your .zshrc:   source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ​ If you receive "highlighters directory not found" error message, you may need to add the following to your .zshenv:   export ZSH_HIGHLIGHT_HIGHLIGHTERS_DIR=/opt/homebrew/share/zsh-syntax-highlighting/highlighters
+     To activate the syntax highlighting, add the following at the end of your .zshrc:  
+
+     source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ​ 
+
+     If you receive "highlighters directory not found" error message, you may need to add the following to your .zshenv:  
+      
+     export ZSH_HIGHLIGHT_HIGHLIGHTERS_DIR=/opt/homebrew/share/zsh-syntax-highlighting/highlighters
     ```
 3.  安装自动填充插件zsh-autosuggestions，安装后可以按tab补全命令
 
@@ -132,7 +138,17 @@ clash -d .
     不过提一句，使用这个插件会导致粘贴变慢，解决方法来自[https://github.com/zsh-users/zsh-autosuggestions/issues/238](https://github.com/zsh-users/zsh-autosuggestions/issues/238)，可以在.zshrc中添加如下设置
 
     ```
-    # This speeds up pasting w/ autosuggestpasteinit() {  OLD_SELF_INSERT=${${(s.:.)widgets[self-insert]}[2,3]}  zle -N self-insert url-quote-magic # I wonder if you'd need `.url-quote-magic`?}pastefinish() {  zle -N self-insert $OLD_SELF_INSERT}zstyle :bracketed-paste-magic paste-init pasteinitzstyle :bracketed-paste-magic paste-finish pastefinish
+    # This speeds up pasting w/ autosuggest
+    pasteinit() {
+    OLD_SELF_INSERT=${${(s.:.)widgets[self-insert]}[2,3]}
+    zle -N self-insert url-quote-magic # I wonder if you'd need `.url-quote-magic`?
+    }
+
+    pastefinish() {
+    zle -N self-insert $OLD_SELF_INSERT
+    }
+    zstyle :bracketed-paste-magic paste-init pasteinit
+    zstyle :bracketed-paste-magic paste-finish pastefinish
     ```
 
 这就是本文的全部内容啦，python和c++准备都放在下一期，欢迎大家催更
