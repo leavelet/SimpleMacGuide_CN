@@ -39,7 +39,7 @@
 
 安装成功的效果如下图：
 
-![安装成功图](https://macguide.leavelet.io/src/assets/vscodeInstallOK.png)
+![安装成功图](https://macguide.leavelet.io/assets/vscodeInstallOK.png)
 
 注：`VS Code Config Helper`对全局设置的影响为：安装了插件`C/C++`与`CodeLLDB`，增加了快捷键`F6`编译运行。
 
