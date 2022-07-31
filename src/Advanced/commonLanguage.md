@@ -59,3 +59,9 @@ IDE
 # 具体设置呢？
 
 请见后续文章。
+
+[C++环境配置](https://macguide.leavelet.io/Advanced/cppcoding.html)中包含了`vscode`的介绍和配置。
+
+[Python环境配置]()中将包含Jetbrains全家桶的下载和配置，以Pycharm为例。
+
+[Qt环境配置]()将介绍CMake，C++依赖，Qt creator和vscode联合配置。

@@ -2,7 +2,7 @@
 
 Apple是一家注重用户安全和隐私的企业，对生态采取封闭管理的思想。相比于iOS，macOS的封闭性不强，但是仍然有沙盒和App校验等安全措施。同时，苹果开发者的门槛较高，市面上有许多程序是“未经苹果认可的”，因此我们经常遇到App打不开的问题。可能的情况和解决方案列举如下。
 
-注：安装不明来源的软件可能造成您的计算机受到病毒危害。**打开每个”不安全“的软件前，请仔细考虑。** 苹果官方的使用手册介绍了这些概念，本文也直接或间接参考了手册。请参阅：[打开来自身份不明开发者的 Mac App](https://support.apple.com/zh-cn/guide/mac-help/mh40616/mac)、[通过覆盖安全性设置来打开 App](https://support.apple.com/zh-cn/guide/mac-help/mh40617/mac)、[App 已被修改或者已损坏](https://support.apple.com/zh-cn/guide/mac-help/mh40619/mac)。
+注：安装不明来源的软件可能造成您的计算机受到病毒破坏。**打开每个”不安全“的软件前，请仔细考虑。** 苹果官方的使用手册介绍了这些概念，本文也直接或间接参考了手册。请参阅：[打开来自身份不明开发者的 Mac App](https://support.apple.com/zh-cn/guide/mac-help/mh40616/mac)、[通过覆盖安全性设置来打开 App](https://support.apple.com/zh-cn/guide/mac-help/mh40617/mac)、[App 已被修改或者已损坏](https://support.apple.com/zh-cn/guide/mac-help/mh40619/mac)。
 
 ## "App来自不被认可的开发者“
 
