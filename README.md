@@ -16,6 +16,6 @@
 
 由于可能会很长，会更新一阵子。作者水平有限，如果发现问题请提issue或者pr，同时也欢迎大家补充内容！
 
-leavelet，leavelet@163.com
+leavelet，me#leavelet.io ('#'->'@')
 
 2022年3月2日 于家园食堂三楼
