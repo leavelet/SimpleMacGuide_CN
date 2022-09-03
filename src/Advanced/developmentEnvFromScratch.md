@@ -46,17 +46,7 @@ iTerm2是终端模拟器，提供了许多个性化选项和附加功能。这�
        然后在`iTerm2` -> `Perferences` -> `Profiles` -> `Text` -> `Font` -> `MesloLGS NF`可以设置字体
    3. 背景图：在设置中可以自己找到
 
-#### 2. 安装Oh My Zsh
-
-简称omz，官方地址是 [github/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-
-omz是设置zsh环境的工具，可以安装和管理各种zsh插件。安装omz的命令是，复制到iTerm2中就可以安装了。如果因为网络环境问题无法安装，请先安装brew
-
-```
- sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
-#### 3. brew
+#### 2. brew
 
 **安装**
 
@@ -97,9 +87,19 @@ wget -O config.yaml 你的订阅地址
 clash -d .
 ```
 
-#### 4.继续zsh的配置
+#### 3.zsh的配置
 
-1.  安装powerlevel10k(建议代理)
+1. 安装Oh My Zsh
+
+简称omz，官方地址是 [github/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+
+omz是设置zsh环境的工具，可以安装和管理各种zsh插件。安装omz的命令是，复制到iTerm2中就可以安装了。如果因为网络环境问题无法安装，请先安装brew，使用clash
+
+```
+ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+2.  安装powerlevel10k(建议代理)
 
     我们使用brew安装，先引入powerlevel10k的源，然后安装。
 
@@ -114,7 +114,8 @@ clash -d .
     ```
 
     此时，再次打开iTerm2就会出现powerlevel10k的配置界面，可以自行选择
-2.  按照终端高亮插件，还是使用brew
+
+3.  按照终端高亮插件，还是使用brew
 
     ```
      brew install zsh-syntax-highlighting
@@ -131,7 +132,7 @@ clash -d .
       
      export ZSH_HIGHLIGHT_HIGHLIGHTERS_DIR=/opt/homebrew/share/zsh-syntax-highlighting/highlighters
     ```
-3.  安装自动填充插件zsh-autosuggestions，安装后可以按tab补全命令
+4.  安装自动填充插件zsh-autosuggestions，安装后可以按tab补全命令
 
     也是用brew（这下只要告诉名字，你应该就会安装了吧）
 

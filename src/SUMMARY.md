@@ -25,7 +25,7 @@
 - [基础开发环境配置（终端与brew）](./Advanced/developmentEnvFromScratch.md)
 - [如何让一门语言跑起来](./Advanced/commonLanguage.md)
 - [C++环境配置](./Advanced/cppcoding.md)
-- [Python环境配置]()
+- [Python环境配置](./Advanced/pythonBasic.md)
 - [Qt安装和配置]()
 
 # 百科部分
