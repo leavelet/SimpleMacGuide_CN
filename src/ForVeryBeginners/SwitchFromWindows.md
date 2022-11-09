@@ -1,6 +1,6 @@
 # 从Windows迁移操作习惯
 
-written by: [Sunyi618](https://github.com/Sunyi618)
+written by: [Boreas618](https://github.com/Boreas618)
 
 通常来说，在你入手你的第一台运行着MacOS操作系统的MacBook之前，你使用的电脑运行的操作系统是由微软开发的Windows。本文档将介绍如何从Windows迁移到MacOS，如何适应MacOS的操作逻辑。
 
@@ -49,7 +49,7 @@ written by: [Sunyi618](https://github.com/Sunyi618)
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h4dd3ffl7ij219u0u0gq2.jpg)
 
-## xx软件园 vs App Store/Macwk
+## xx软件园 vs App Store
 
 在Windows中，为了下载某软件，你百度搜索某软件的名称，然后点进“xx软件园”、“xx下载站”，如履薄冰地避开广告，下载软件。
 
